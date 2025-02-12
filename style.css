@@ -1,0 +1,41 @@
+* {
+     margin: none;
+     padding: none;
+     font-family: "Bebas Neue", serif;
+     font-weight: 400;
+     font-style: normal;
+}
+
+.mainElement{
+     height: 300px;
+     width: 400px;
+}
+
+.container {
+     display: flex;
+     /* align-items: center; */
+     justify-content: center;
+     height: 100vh;
+}
+
+.buttons{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-around;
+}
+
+.yes,.no {
+     height: 50px;
+     width: 120px;
+     font-size: 30px;
+     border-radius: 25px;    
+}
+   
+.bottomFinal, .heading {
+     display: grid;
+     place-items: center;
+     text-align: center;
+}
+
+
+   
