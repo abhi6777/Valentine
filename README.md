@@ -1,3 +1,8 @@
+[Live Here]( https://abhi6777.github.io/Valentine/)
+
+## 📸 Screenshot
+![Game Preview](game.png)
+
 # Valentine Proposal Button Game 💖
 
 This is a fun **Valentine's Day web game** where the user is asked,  
@@ -25,10 +30,7 @@ making it harder to say "No"! Eventually, the **"No" button disappears**. 😆
 2. Click **"No"** and watch it shrink! 😆
 3. Click **"Yes"** and get redirected to `final.html`. 🎉
 
-## 📸 Screenshot (Optional)
-![Game Preview](screenshot.png)
-
 ## 🎁 Credits
 Made with ❤️ for fun!  
 
----
+Abhimanyu
